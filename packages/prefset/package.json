@@ -1,6 +1,6 @@
 {
   "name": "@prefset/prefset",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "repository": "https://github.com/prefset/prefset-js.git",
@@ -9,5 +9,8 @@
   "homepage": "https://github.com/prefset/prefset-js",
   "bugs": {
     "url": "https://github.com/prefset/prefset-js/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
