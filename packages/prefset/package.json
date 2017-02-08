@@ -1,0 +1,13 @@
+{
+  "name": "@prefset/prefset",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/prefset/prefset-js.git",
+  "author": "Patricio López <lopezjuripatricio@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/prefset/prefset-js",
+  "bugs": {
+    "url": "https://github.com/prefset/prefset-js/issues"
+  }
+}
