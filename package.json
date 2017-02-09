@@ -6,8 +6,15 @@
     "lint": "eslint packages/",
     "test": "lerna run test"
   },
-  "repository": "https://github.com/prefset/prefset-js.git",
-  "author": "Patricio López <lopezjuripatricio@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prefset/prefset-js.git"
+  },
+  "author": {
+    "name": "Patricio López Juri",
+    "email": "patricio@lopezjuri.com",
+    "url": "https://lopezjuri.com"
+  },
   "license": "MIT",
   "homepage": "https://github.com/prefset/prefset-js",
   "bugs": {
@@ -19,6 +26,6 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.9.0",
-    "lerna": "2.0.0-beta.36"
+    "lerna": "^2.0.0-beta.37"
   }
 }

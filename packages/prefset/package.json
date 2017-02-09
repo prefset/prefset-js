@@ -3,8 +3,15 @@
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
-  "repository": "https://github.com/prefset/prefset-js.git",
-  "author": "Patricio López <lopezjuripatricio@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prefset/prefset-js.git"
+  },
+  "author": {
+    "name": "Patricio López Juri",
+    "email": "patricio@lopezjuri.com",
+    "url": "https://lopezjuri.com"
+  },
   "license": "MIT",
   "homepage": "https://github.com/prefset/prefset-js",
   "bugs": {
